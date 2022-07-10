@@ -1,0 +1,141 @@
+
+
+body{
+    size: 210mm 297mm;
+    background-color: rgb(165, 165, 165);
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    margin: -10px 0px 0px -10px;
+    
+}
+
+header{
+    background-color: white;
+    width: 210mm;    
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;  
+        
+}
+
+main{
+    background-color: white;
+    width: 210mm;
+    margin: auto;   
+          
+}
+
+
+h1.ra{
+    margin-right: 75mm;
+    margin-bottom: -10px;
+    font-size: 16px;
+    text-align: center;
+    }    
+
+h2.ra{
+    margin-right: 75mm;
+    margin-bottom: -10px;
+    font-size: 12px;
+    text-align: center;
+}
+
+
+img.logo{
+    width: 30mm;
+    height: 30mm;
+    margin-top: 20px;
+    margin-left: 20px;    
+}
+
+span.dane_ko{
+    display: flex;
+    justify-content: space-between;
+    padding: 5mm 5mm 5mm 7mm;
+}
+span.nazwa_kod{
+    text-align: center;
+    font-size: 20px;
+}
+
+img.wizka_stolu{
+    height: 600px;
+    padding-left: 70px;
+}
+footer{
+    
+    height: 25mm;
+    width: 210mm;
+    background-color: black;    
+    border-top: 3px solid yellow;
+       
+}
+p.info{
+    font-size: 16px;
+    color: white;
+    font-weight: 700;
+    margin: 0px 0px 15px 10px;
+    padding: 20px;
+    text-align: center;    
+}
+span.blat,span.polki{
+    text-align: center;
+    font-size: 20px;
+    padding: 1px;
+}
+
+.wymiar_blatu{
+    height: 300px;
+    padding-left: 30mm;
+}
+
+img.blat_25{
+    height: 150px;
+}
+
+.profile_konstrukcyjne{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 20px;
+}
+
+.profile{
+    display: flex;
+    height: 200px;
+    justify-content: space-around;
+}
+
+.profil{
+    height: 150px;
+}
+.elementy{
+    display: flex;
+    height:  150px;
+    justify-content: space-around;
+    
+}
+.container{
+    background-color:rgb(208, 244, 245);
+    border: 2px solid rgb(0, 0, 0);
+    height: 150px;
+    width: auto;
+    display: flex;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10mm;
+    
+    
+}
+.opis{
+    margin-left: 6mm;
+    
+}
+.img_height{
+    height:100px;
+    padding: 25px;
+}
+.podsumowanie{
+    padding-bottom: 20px;
+}
